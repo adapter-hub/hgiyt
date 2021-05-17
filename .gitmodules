@@ -1,0 +1,8 @@
+[submodule "lib/wiki-bert-pipeline"]
+	path = lib/wiki-bert-pipeline
+	url = git@github.com:xplip/wiki-bert-pipeline.git
+	branch = hgiyt
+[submodule "lib/adapter-transformers"]
+	path = lib/adapter-transformers
+	url = git@github.com:xplip/adapter-transformers.git
+	branch = hgiyt

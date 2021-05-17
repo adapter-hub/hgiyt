@@ -94,7 +94,7 @@ Our pretrained models are also available in the ModelHub: https://huggingface.co
 ## Citation & Authors
 
 ```
-@inproceedings{rust-etal-2020-good,
+@inproceedings{rust-etal-2021-good,
       title     = {How Good is Your Tokenizer? On the Monolingual Performance of Multilingual Language Models}, 
       author    = {Phillip Rust and Jonas Pfeiffer and Ivan Vuli{\'c} and Sebastian Ruder and Iryna Gurevych},
       year      = {2021},
