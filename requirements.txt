@@ -1,0 +1,6 @@
+tensorboard
+tensorflow<=2.4.0
+gdown
+mecab-python3
+scikit-learn
+seqeval
