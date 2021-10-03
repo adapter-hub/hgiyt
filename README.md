@@ -70,7 +70,7 @@ sudo make install
 gdown https://drive.google.com/uc?id=0B4y35FiV1wh7MWVlSDBCSXZMTXM
 tar -xvzf mecab-ipadic-2.7.0-20070801.tar.gz
 cd mecab-ipadic-2.7.0-20070801
-./configure
+./configure --with-charset=utf8
 make
 sudo make install
 ```
@@ -101,7 +101,7 @@ Our pretrained models are also available in the ModelHub: https://huggingface.co
       booktitle = {Proceedings of the 59th Annual Meeting of the Association for Computational
                   Linguistics, {ACL} 2021, Online, August 1-6, 2021},
       url       = {https://arxiv.org/abs/2012.15613},
-      pages     = {XXXX--XXXX}
+      pages     = {3118--3135}
 }
 ```
 Contact Person: Phillip Rust, plip.rust@gmail.com
